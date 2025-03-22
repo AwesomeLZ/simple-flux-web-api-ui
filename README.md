@@ -1,5 +1,5 @@
 # FAL.AI Web Interface
-![image](https://github.com/user-attachments/assets/4cc4efeb-7bcd-421b-be87-2b3c25d3f88d)
+
 ![generation-2413047d-16b7-4f13-a4a1-a71d6a2e7be8](https://github.com/user-attachments/assets/73d3a42f-1341-4569-980c-21915474ef4a)
 
 
