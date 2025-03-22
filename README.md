@@ -1,5 +1,6 @@
 # FAL.AI Web Interface
 ![image](https://github.com/user-attachments/assets/4cc4efeb-7bcd-421b-be87-2b3c25d3f88d)
+![generation-4101b1b0-b28a-4a44-b655-ea4ac0549d0f-0](https://github.com/user-attachments/assets/4558e0ca-bf52-40f4-85c0-20fe5b1087a4)
 
 A modern web interface for interacting with FAL.AI services, built with Next.js 14 and TypeScript. This application provides a seamless way to manage FAL.AI API keys and interact with various AI services.
 
