@@ -44,7 +44,6 @@ export async function generateImage(
     const result = await fal.subscribe(model.id, {
       input,
       logs: true,
-      sync_mode:true,
       onQueueUpdate: (update) => {
         console.log(`🔄 Queue Status: ${update.status}`);
         if (update.status === "IN_PROGRESS") {
